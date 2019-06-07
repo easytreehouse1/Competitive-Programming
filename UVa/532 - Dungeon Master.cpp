@@ -4,6 +4,7 @@
   Esteban Arango Medina
 */
 #include <algorithm>
+#include<bits/stdc++.h>
 #include <iostream>
 #include <iterator>
 #include <numeric>
